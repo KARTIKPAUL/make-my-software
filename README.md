@@ -120,7 +120,7 @@ All rights reserved © 2025 MakeMySoftWare
 
 **Business Inquiries:**  
 📧 [kartikpaul330@gmail.com](mailto:kartikpaul330@gmail.com)  
-🌐 [www.makemysoftware.com](https://www.makemysoftware.com)
+🌐 [https://make-my-software.vercel.app/](https://make-my-software.vercel.app/)
 
 **Technical Support:**  
 📧 [kartikpaul330@gmail.com](kartikpaul330@gmail.com)
